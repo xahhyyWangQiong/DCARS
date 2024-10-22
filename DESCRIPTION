@@ -2,8 +2,8 @@ Package: wqDCARS
 Type: Package
 Title: DCAsignature
 Version: 1.0
-Authors@R: person("wang qiong", role = c("aut", "cre"), email = "tmu2018huxin@163.com")
-Maintainer: wang qiong <tmu2018huxin@163.com>
+Authors@R: person("wang qiong", role = c("aut", "cre"), email = "wangqiong20150126@163.com")
+Maintainer: wang qiong <wangqiong20150126@163.com>
 Description: This package provides a function to calculate the DCAsignature based on gene expression data. The expression matrix should have rows as genes and columns as samples.
 License: GPL-3
 RoxygenNote: 7.3.1
